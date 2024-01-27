@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="509.0" prefWidth="699.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sn.dev.systemparrainageapp.controllers.CandidatController">
+   <children>
+      <AnchorPane layoutX="14.0" layoutY="14.0" prefHeight="488.0" prefWidth="256.0" styleClass="left-form" stylesheets="@loginDesign.css">
+         <children>
+            <Button layoutX="93.0" layoutY="219.0" mnemonicParsing="false" text="buuuuu" />
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>
